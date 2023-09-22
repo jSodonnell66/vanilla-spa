@@ -1,0 +1,15 @@
+{
+  "name": "vanilla-spa",
+  "version": "1.0.0",
+  "description": "**Vanilla-SPA** is a personal project aimed at delving deep into the world of pure and unadulterated JavaScript. The purpose of this endeavor is to gain a profound understanding of the language without the distractions of modern JavaScript frameworks. By embarking on this journey, we aspire to build a solid foundation that will enable us to critically evaluate when and why to use frameworks in future projects, and even whether they are necessary at all for certain tasks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
