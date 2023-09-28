@@ -10,7 +10,9 @@ export default class extends AbstractView {
     return `
     <h1>yo</h1>
     <p>yo</p>
-    <p>yo</p>
+    <p>
+    <a href="/posts" data-link>yo</a>
+    </p>
     `;
   }
 }
