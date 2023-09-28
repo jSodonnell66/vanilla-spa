@@ -30,8 +30,8 @@ const router = async () => {
   }
 
   const view = new match.route.view();
-
-  document.querySelector("#app").innerHTML = await view.getHtml();
+  const appElement = document.querySelector("#app");
+  appElement.innerHTML = await view.getHtml();
 };
 
 window.addEventListener("popstate", router);
@@ -46,3 +46,5 @@ document.addEventListener("DOMContentLoaded", () => {
 
   router();
 });
+
+export default router; // Export the router function for reuse if needed
