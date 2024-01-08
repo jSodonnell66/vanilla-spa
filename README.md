@@ -60,7 +60,7 @@ Create a new branch for your contribution:
 git checkout -b feature/your-feature-name
 ```
 
-###Make Changes
+### Make Changes
 
 Make your changes and commit them:
 
@@ -69,7 +69,7 @@ git add .
 git commit -m "Add your message here"
 ```
 
-###Push Changes
+### Push Changes
 
 Push your changes to your forked repository:
 
@@ -77,11 +77,11 @@ Push your changes to your forked repository:
 git push origin feature/your-feature-name
 ```
 
-###Create a Pull Request
+### Create a Pull Request
 
 Create a pull request from your forked repository to this main repository, explaining your changes and their significance.
 
-###Conclusion
+### Conclusion
 
 **Vanilla-SPA** is not just a project; it's a journey of self-discovery and skill enhancement. By embarking on this endeavor, we hope to equip ourselves with the knowledge and experience needed to excel in the world of web development, armed with a deep understanding of JavaScript.
 
